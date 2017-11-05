@@ -21,4 +21,6 @@ In order to prove my mastery of formatting, I've created a link that will jump y
   2. I am the current RCT Artistic Director
   3. This is my first time editing Github!
   
-  In order to prove my understanding, I've made a link that will lead back to the beginning of my section [here](#janinelink)
+  In order to prove my understanding, I've created a link that will lead back to the beginning of my section [here](#janinelink)
+  
+  I will use my new knowledge to update the RCT Constitution with any amendments.
