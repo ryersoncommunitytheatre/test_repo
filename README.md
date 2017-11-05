@@ -11,3 +11,14 @@ My name is *Bryan Chu* and I am editing this repository to **experiment with Git
 3. I wrote the RCT Constitution!
 
 In order to prove my mastery of formatting, I've created a link that will jump you back to the beginning of my section [here](#bryanlink)
+
+## Janine Fernandes
+<a name="janinelink">
+  
+  My name is *Janine Fernandes* and I am editing this repository to **learn how to edit Github files**. Here are three things about me:
+  
+  1. I am a Child and Youth Care student at Ryerson University
+  2. I am the current RCT Artistic Director
+  3. This is my first time editing Github!
+  
+  In order to prove my understanding, I've made a link that will lead back to the beginning of my section [here](#janinelink)
