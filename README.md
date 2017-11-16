@@ -25,6 +25,6 @@ In order to prove my mastery of formatting, I've created a link that will jump y
   
   I will use my new knowledge to update the RCT Constitution with any amendments.
   
-  ### Michael Maksimenko
+  ## Michael Maksimenko
   
-  Michael is quite the man.
+  Sometimes I *don't* log my changes. **You're gonna have to deal with it.**
