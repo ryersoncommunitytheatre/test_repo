@@ -31,3 +31,10 @@ In order to prove my mastery of formatting, I've created a link that will jump y
 1. Sometimes I make lists to try out the formatting.
 2. Sometimes I don't.
 3. Sometimes I use **BOLD**
+
+## Bronwen Spolsky
+
+My name is *Tom Riddle* and this is my diary. No really, it isn't. **I forget Harry Potter anyway**
+
+1. Sometimes I learn how to code 
+2. Sometimes I direct stuff I write 
