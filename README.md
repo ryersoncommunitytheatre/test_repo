@@ -24,3 +24,7 @@ In order to prove my mastery of formatting, I've created a link that will jump y
   In order to prove my understanding, I've created a link that will lead back to the beginning of my section [here](#janinelink)
   
   I will use my new knowledge to update the RCT Constitution with any amendments.
+  
+  ### Michael Maksimenko
+  
+  Michael is quite the man.
