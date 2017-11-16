@@ -28,3 +28,6 @@ In order to prove my mastery of formatting, I've created a link that will jump y
   ## Michael Maksimenko
   
   Sometimes I *don't* log my changes. **You're gonna have to deal with it.**
+1. Sometimes I make lists to try out the formatting.
+2. Sometimes I don't.
+3. Sometimes I use **BOLD**
